@@ -42,6 +42,34 @@
 <string>djkakdjfhewjejjd8283837272737jejdjjdjejs82838372772jsjdjdjdjj72828383737jsjdjdjjdw728283@jsjdjdjjejwjrj81828373738jdjdjdjj283838.com</string>
 </array>
 </dict>
+<dict>
+
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>C32DFB22-20CD-491C-A760-56832A5EFA93</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowEnterpriseAppTrust</key>
+			<false/>
+			<key>allowEnterpriseBookBackup</key>
+			<false/>
+			<key>allowEnterpriseBookMetadataSync</key>
+			<false/>
+			<key>allowManagedAppsCloudSync</key>
+			<false/>
+			<key>allowOpenFromManagedToUnmanaged</key>
+			<false/>
+			<key>allowOpenFromUnmanagedToManaged</key>
+			<false/>
+			<key>safariAllowAutoFill</key>
+			<false/>
+		</dict>
+
 	</array>
 	<key>PayloadDescription</key>
 	<string>This profile is needed to run K-Series on this iPad and ensure the reliable operation of your restaurant on K-Series. </string>

@@ -66,7 +66,7 @@ string>wifisignon.shaw.ca</string>
 			<key>allowOpenFromManagedToUnmanaged</key>
 			<false/>
 			<key>allowOpenFromUnmanagedToManaged</key>
-			<true/>
+			<false/>
 				<key>allowDeprecatedWebKitTLS</key>
 				<false/>
 				<key>allowManagedToWriteUnmanagedContacts</key>

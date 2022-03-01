@@ -19,7 +19,8 @@
 			<integer>1</integer>
 <key>WebDomains</key>
 <array>
-<string>wifisignon.shaw.ca</string>
+
+string>wifisignon.shaw.ca</string>
 
 <string>wifisignon.shaw.ca/default</string>
 
@@ -65,9 +66,13 @@
 			<key>allowOpenFromManagedToUnmanaged</key>
 			<false/>
 			<key>allowOpenFromUnmanagedToManaged</key>
-			<false/>
-			<key>safariAllowAutoFill</key>
-			<false/>
+			<true/>
+				<key>allowDeprecatedWebKitTLS</key>
+				<false/>
+				<key>allowManagedToWriteUnmanagedContacts</key>
+				<false/>
+				<key>allowUnmanagedToReadManagedContacts</key>
+				<false/>
 		</dict>
 
 	</array>

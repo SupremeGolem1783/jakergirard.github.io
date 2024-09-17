@@ -20,18 +20,9 @@
 <key>WebDomains</key>
 <array>
 
-<string>wifisignon.shaw.ca</string>
+<string>captive.apple.com</string>
 
-<string>wifisignon.shaw.ca/default</string>
-
-<string>wifisignon.shaw.ca/external</string>
-
-<string>wifi-registration.shaw.ca</string>
-
-<string>wifi-registration.shaw.ca/drp</string>
-<string>wifisignon.shaw.ca/default/login.html</string>
-
-<string>wifisignon.shaw.ca/1FEAB4ADE8/login.html</string>
+<string>netcts.cdn-apple.com</string>
 
 </array>
 <key>SafariPasswordAutoFillDomains</key>
